@@ -4,7 +4,7 @@
         <div style="width: 30%; background-color: #2A2A2A; padding: 20px; border-radius: 16px; text-align: center;" align="center">
             <img src="https://codewithsadee.github.io/vcard-personal-portfolio/assets/images/my-avatar.png" alt="Kunal Vashisht" style="border-radius: 50%; width: 120px; height: 120px; object-fit: cover;" align="center">
             <h2 style="margin-top: 15px; color: #FFD700; font-size: 24px;">Kunal Vashisht</h2>
-            <p style="color: #AAAAAA; font-size: 16px; margin-bottom: 30px;">Senior Software Engineer</p>
+            <p style="color: #AAAAAA; font-size: 16px; margin-bottom: 30px;">Technopreneur | Founder and CTO (2X) | Technical Project Manager | Product Manager | Sr. Software Engineer | Laravel Engineer | Founder & CEO @ Hybrid Utopia | Co-founder & CTO @ Advisator | Tech Consultant</p>
            <p style="color: #AAAAAA; font-size: 16px;">
                 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" style="width: 16px; height: 16px; vertical-align: middle; margin-right: 8px;">
                 Email: <a href="mailto:kunal4164@gmail.com" style="color: #FFD700; text-decoration: none;">kunal4164@gmail.com</a>
@@ -62,11 +62,6 @@ Explore the brands I've developed:
 18. [Secure Strike](https://securestrike.io)
 
 In addition, I bring valuable experience in Project Management, Client Handling, and expertise in server management, FTP, and Ubuntu Server Hosting. Feel free to reach out, and let's collaborate to bring your vision to life.
-
-Thanks and Regards, 
-Kunal Vashisht 
-kunal4164@gmail.com 
-8076556980
 
 
 ## 🌐 Socials:
