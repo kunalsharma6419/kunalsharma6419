@@ -46,7 +46,7 @@ Explore the brands I've developed:
 2. [Bhandara Wala](https://bhandarawala.co.in)
 3. [Cloudxpms](https://cloudxpms.com/home.html)
 4. [OINDC](https://oindc.com/home.html)
-5. [Hindustan Grains](https://hindustan grains.in)
+5. [Hindustan Grains](https://hindustangrains.in)
 6. [Vsmii Institute](https://vsmiinstitute.com)
 7. [clmratindia](http://clmratindia.000.pe)
 8. [hybridutopia](https://thehybridutopia.com)
