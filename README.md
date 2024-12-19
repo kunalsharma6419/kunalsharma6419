@@ -18,7 +18,7 @@
 # 💫 About Me:
 Hello,
 
-I'm Kunal Vashisht, a Full Stack Web Developer, Software Engineer, and Project Manager with over 4 years of hands-on experience in crafting robust, scalable, and user-friendly web applications. Beyond my successful delivery of 20 brand websites spanning various domains, my expertise lies in utilizing modern technologies such as Laravel, ReactJS, Corephp, Java NetBeans IDE, Mysql, and NodeJS.
+I'm Kunal Vashisht, a Full Stack Web Developer, Software Engineer, and Project Manager with over 6 years of hands-on experience in crafting robust, scalable, and user-friendly web applications. Beyond my successful delivery of 25 web applications & brand websites spanning various domains, my expertise lies in utilizing modern technologies such as Laravel, ReactJS, Corephp, Java NetBeans IDE, Mysql, and NodeJS.
 
 In addition to my development prowess, I've embraced a fulfilling role as a Full Stack Mentor at renowned edtechs like Skilligence Pvt Ltd. Over the years, I've honed my skills and cultivated a deep understanding of the Laravel framework, allowing me to develop scalable web application software with finesse.
 
