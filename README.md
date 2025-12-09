@@ -4,7 +4,7 @@
         <div style="width: 30%; background-color: #2A2A2A; padding: 20px; border-radius: 16px; text-align: center;" align="center">
             <img src="https://codewithsadee.github.io/vcard-personal-portfolio/assets/images/my-avatar.png" alt="Kunal Vashisht" style="border-radius: 50%; width: 120px; height: 120px; object-fit: cover;" align="center">
             <h2 style="margin-top: 15px; color: #FFD700; font-size: 24px;">Kunal Vashisht</h2>
-            <p style="color: #AAAAAA; font-size: 16px; margin-bottom: 30px;">Technopreneur | Founder and CTO (2X) | Technical Project Manager | Product Manager | Sr. Software Engineer | Laravel Engineer | Founder & CEO @ Hybrid Utopia | Co-founder & CTO @ Advisator | Tech Consultant</p>
+            <p style="color: #AAAAAA; font-size: 16px; margin-bottom: 30px;">Technical Project Manager | Product Manager | Sr. Software Engineer | Laravel Engineer | Tech Consultant</p>
            <p style="color: #AAAAAA; font-size: 16px;">
                 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" style="width: 16px; height: 16px; vertical-align: middle; margin-right: 8px;">
                 Email: <a href="mailto:kunal4164@gmail.com" style="color: #FFD700; text-decoration: none;">kunal4164@gmail.com</a>
